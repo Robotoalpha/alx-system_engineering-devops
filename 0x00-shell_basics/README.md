@@ -8,3 +8,5 @@ Task 3. this script display current directory content in long format.
 
 task 4.this script display current directory content including hidden files use the long format.
 
+Task 5. this script display the current directory content in long formal, with user and group  IDs displayed numerically and hidden files. 
+
