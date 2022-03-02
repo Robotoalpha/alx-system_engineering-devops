@@ -12,3 +12,5 @@ Task 5. this script display the current directory content in long formal, with u
 
 Task 6. this script create a directory nammed my first directory in the /tmp/ directory.
 
+Task 7. this script move the file betty from /tmp/ to /tmp/my_first_directory.
+
