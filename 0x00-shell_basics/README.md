@@ -18,3 +18,9 @@ Task 8. this script remove the file betty in the /tmp/my_first_directory.
 
 Task 9. this script remove the directory mnamed my_first_directory.
 
+TAsk 10. the script move back to ^revious directory.
+
+Tak 11. the script Write a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
+
+Task 12. the script Write a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory.
+
