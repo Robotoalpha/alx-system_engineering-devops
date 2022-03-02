@@ -4,4 +4,5 @@ Task 1. this script display the content list of your current directory.
 
 Task 2. this scripts  changes working directory to the user's home directory.
 
+Task 3. this script display current directory content in long format.
 
