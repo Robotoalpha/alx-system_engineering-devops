@@ -28,3 +28,7 @@ Task 13. the script create a link nammed _ls_
 
 Task 14. the script copy html files .
 
+Task 15. the script removes moves all files beginning with an uppercase letter to the directory /tmp/u
+
+Task 16 . the script removes emacs files.
+
