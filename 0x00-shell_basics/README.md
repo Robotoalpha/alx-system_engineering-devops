@@ -26,3 +26,5 @@ Task 12. the script Write a script that prints the type of the file named iamafi
 
 Task 13. the script create a link nammed _ls_
 
+Task 14. the script copy html files .
+
