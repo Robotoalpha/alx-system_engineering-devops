@@ -32,3 +32,7 @@ Task 15. the script removes moves all files beginning with an uppercase letter t
 
 Task 16 . the script removes emacs files.
 
+Task 17. the script creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
+
+Task 18. the script lists all the files and directories of the current directory, separated by commas (,).
+
