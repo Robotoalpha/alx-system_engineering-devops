@@ -14,3 +14,5 @@ Task 6. this script create a directory nammed my first directory in the /tmp/ di
 
 Task 7. this script move the file betty from /tmp/ to /tmp/my_first_directory.
 
+Task 8. this script remove the file betty in the /tmp/my_first_directory.
+
