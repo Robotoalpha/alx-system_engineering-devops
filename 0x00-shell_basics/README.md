@@ -24,3 +24,5 @@ Tak 11. the script Write a script that lists all files (even ones with names beg
 
 Task 12. the script Write a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory.
 
+Task 13. the script create a link nammed _ls_
+
