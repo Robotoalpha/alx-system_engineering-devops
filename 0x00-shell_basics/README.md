@@ -10,3 +10,5 @@ task 4.this script display current directory content including hidden files use 
 
 Task 5. this script display the current directory content in long formal, with user and group  IDs displayed numerically and hidden files. 
 
+Task 6. this script create a directory nammed my first directory in the /tmp/ directory.
+
